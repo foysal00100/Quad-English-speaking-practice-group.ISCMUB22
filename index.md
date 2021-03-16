@@ -48,9 +48,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## Suggestions
 
 An effective study group will eventually develop a rhythm and routine that is comfortable for the participants. To that end, it’s important to maintain the sense that preparation for and participation in the study group is time well spent. Below are a few suggestions to help get our group off to a good start and to maintain its vitality throughout the semester.
-### Organization
+- ### Organization
 Any group will quickly dissolve into chaos without some sort of leadership and organization. As mentioned previously, a group should at least have a facilitator to keep sessions on- track and moving forward and an organizer to keep track of information and act as a contact person.
-### Conducting the study group
+- ### Conducting the study group
 It’s a good idea to follow an outline or agenda so everyone knows what to expect and how to prepare for each session. A little time should be set aside at the end of each meeting to determine what will be covered in the next. Participants may want to take turns being the presenter or “teacher” so that everyone has the opportunity to reinforce their learning in that way
     Sample Agenda
 1. Introduce the topic to be covered
