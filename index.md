@@ -38,7 +38,7 @@ down to business.
 
 ## Remember 
 
-It’s important to select the members of our group carefully—aim for compatibility and manageability (not more than 6 - 10 people). Choose a time when everyone is functional and alert—. Also, make sure you bring everything you need for planning and participation so your sessions run smoothly and everyone is on the same page.
+It’s important to select the members of our group carefully—aim for compatibility and manageability (not more than 6 -8 people). Choose a time when everyone is functional and alert—. Also, make sure you bring everything you need for planning and participation so your sessions run smoothly and everyone is on the same page.
 
 
 
