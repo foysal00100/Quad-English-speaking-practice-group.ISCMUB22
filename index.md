@@ -1,8 +1,8 @@
 ## Welcome to club
 
-###RULES
+### RULES
 
--Arrive on time
+- Arrive on time
 -Come prepared to work (review notes, complete assigned readings, write out potential
 test questions) Guidelines (Dos and Don’ts)
 
