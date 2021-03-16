@@ -30,7 +30,7 @@ It’s a good idea to follow an outline or agenda so everyone knows what to expe
 2. Review/compare class notes
 3. Discuss readings/concepts
 4. Questions?
-5. Work through a sample problem (math/science)
+5. Work through a sample problem
 6. Develop potential test questions for practice test
 7. Plan for next meeting
 It’s a good idea to allow 5 minutes at the start of each meeting to chat/vent before getting
