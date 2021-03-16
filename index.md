@@ -14,8 +14,7 @@ test questions) Guidelines (Dos and Don’ts)
 - Stay focused on the task at hand
 - Have an agenda for each session so expectations are clear (what will be covered, how,
 and by whom)
-- Don’t split up the work (for example: math problems—group d
-all the problems, but could take turns going over them)
+- Don’t split up the work 
 - Don’t view the study group as a substitute for tutoring (if needed) or individual study                       
 
 ## Suggestions
