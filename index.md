@@ -1,6 +1,6 @@
 # Welcome to club
 
-## RULES
+##  RULES
 
 - Arrive on time
 - Come prepared to work (review notes, complete assigned readings, write out potential
@@ -16,8 +16,8 @@ test questions) Guidelines (Dos and Don’ts)
 and by whom)
 - Don’t split up the work (for example: math problems—group d
 all the problems, but could take turns going over them)
-- Don’t view the study group as a substitute for tutoring (if needed) or individual study
- 
+- Don’t view the study group as a substitute for tutoring (if needed) or individual study                       
+
 ## Suggestions
 
 An effective study group will eventually develop a rhythm and routine that is comfortable for the participants. To that end, it’s important to maintain the sense that preparation for and participation in the study group is time well spent. Below are a few suggestions to help get our group off to a good start and to maintain its vitality throughout the semester.
@@ -36,9 +36,12 @@ It’s a good idea to follow an outline or agenda so everyone knows what to expe
 It’s a good idea to allow 5 minutes at the start of each meeting to chat/vent before getting
 down to business.
 
+
 ## Remember 
 
 It’s important to select the members of our group carefully—aim for compatibility and manageability (not more than 6 - 10 people). Choose a time when everyone is functional and alert—. Also, make sure you bring everything you need for planning and participation so your sessions run smoothly and everyone is on the same page.
+
+
 
 
 ### Markdown
