@@ -1,8 +1,21 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/foysal00100/school/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1.• Arrive on time
+2.• Come prepared to work (review notes, complete assigned readings, write out potential
+test questions) Guidelines (Dos and Don’ts)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+3.• Be willing to contribute ideas
+4.• Don’t be afraid to ask questions
+5.• Be an active participant (listening and speaking)
+6.• Share strategies you have found to be helpful
+7.• Exchange contact information
+8.• Stay focused on the task at hand
+9.• Have an agenda for each session so expectations are clear (what will be covered, how,
+and by whom)
+10.• Don’t split up the work (for example: math problems—group members should each do
+all the problems, but could take turns going over them)
+11.• Don’t view the study group as a substitute for tutoring (if needed) or individual study
+
 
 ### Markdown
 
