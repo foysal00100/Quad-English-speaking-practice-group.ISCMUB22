@@ -3,20 +3,20 @@
 ### RULES
 
 - Arrive on time
--Come prepared to work (review notes, complete assigned readings, write out potential
+- Come prepared to work (review notes, complete assigned readings, write out potential
 test questions) Guidelines (Dos and Don’ts)
 
--Be willing to contribute ideas
--Don’t be afraid to ask questions
--Be an active participant (listening and speaking)
--Share strategies you have found to be helpful
--Exchange contact information
--Stay focused on the task at hand
--Have an agenda for each session so expectations are clear (what will be covered, how,
+- Be willing to contribute ideas
+- Don’t be afraid to ask questions
+- Be an active participant (listening and speaking)
+- Share strategies you have found to be helpful
+- Exchange contact information
+- Stay focused on the task at hand
+- Have an agenda for each session so expectations are clear (what will be covered, how,
 and by whom)
--Don’t split up the work (for example: math problems—group d
+- Don’t split up the work (for example: math problems—group d
 all the problems, but could take turns going over them)
--Don’t view the study group as a substitute for tutoring (if needed) or individual study
+- Don’t view the study group as a substitute for tutoring (if needed) or individual study
  
 
 
